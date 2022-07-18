@@ -3,21 +3,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eunice-atieno-71017b210/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://euniceportfolio.netlify.app/)
 
-# Welcome to my Github profile ! 
+# Welcome to my Github profile !
+I love to call myself a problem solver
 
 I am a software engineer and art lover. I love programming, writing, and creating art. 
 
 
 
-<img src="https://entrepreneurship.babson.edu/wp-content/uploads/2021/03/bta-1200x630-1.jpg" width="41" height="31" />&nbsp;&nbsp; I Love to call myself a problem solver
+
 
 <img align="right" alt="GIF" src="https://st3.depositphotos.com/2234534/36417/v/380/depositphotos_364171396-stock-illustration-young-female-character-writing-code.jpg?forcejpeg=true" width="408" height="318" />
 
 
-I have experience using a number of programming languages: 
-* Python
-* Javascript
-* Kotlin
+I have worked with a number of technologies: 
+* Python (Django ,Nameko)
+* Javascript (React )
+* GraphQL and  Rest APIs.
+* SQL Databases.
+
 
 
 
